@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="araujo.pw" resolutions="1x" timestamp="1468584533864">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="araujo.pw" resolutions="1x" timestamp="1468584676560">
   <folder name="images">
     <file name="twitter.png" crc="4102706121" ref="index"/>
     <file name="skype.png" crc="4267061425" ref="index"/>
@@ -10,7 +10,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="258815435"/>
-    <file name="index.css" crc="3852803178" ref="index"/>
+    <file name="index.css" crc="394558924" ref="index"/>
     <file name="iefonts_index.css" crc="423515640" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -21,5 +21,5 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
   </folder>
-  <file name="index.html" crc="421550211" seo="true" mt="1468582287398" redirect="true"/>
+  <file name="index.html" crc="421550211" seo="true" mt="1468584652703" redirect="true"/>
 </manifest>
