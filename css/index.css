@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000017;
-	background-color: #847DCC;
+	color: #0000EC;
+	background-color: #8A98FE;
 }
 
 .html
@@ -57,7 +57,7 @@
 	z-index: 73;
 	min-height: 548.7500000000008px;
 	padding-bottom: 0px;
-	background: #000000 url("../images/img_0002.jpg") no-repeat center center;
+	background: #000000 url("../images/disney.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -501,7 +501,7 @@
 	font-size: 18px;
 	font-family: Courier New, Courier, monospace;
 	font-weight: normal;
-	margin-left: 144px;
+	margin-left: 120px;
 	margin-top: 40px;
 	position: relative;
 }
@@ -513,7 +513,7 @@
 	padding-bottom: 0px;
 	min-height: 45px;
 	width: 253px;
-	margin: 40px 0px 0px 144px;
+	margin: 40px 0px 0px 120px;
 }
 
 #u616-4
@@ -529,9 +529,19 @@
 	font-size: 18px;
 	font-family: Courier New, Courier, monospace;
 	font-weight: normal;
-	margin-left: 144px;
-	margin-top: 12px;
+	margin-left: 120px;
+	margin-top: 13px;
 	position: relative;
+}
+
+#u616-4:hover
+{
+	background-color: #000000;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 45px;
+	width: 253px;
+	margin: 13px 0px 0px 120px;
 }
 
 #u613-4
@@ -547,19 +557,9 @@
 	font-size: 18px;
 	font-family: Courier New, Courier, monospace;
 	font-weight: normal;
-	margin-left: 144px;
-	margin-top: 13px;
+	margin-left: 120px;
+	margin-top: 12px;
 	position: relative;
-}
-
-#u613-4:hover
-{
-	background-color: #000000;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 45px;
-	width: 253px;
-	margin: 13px 0px 0px 144px;
 }
 
 #u602-4
@@ -575,19 +575,19 @@
 	font-size: 18px;
 	font-family: Courier New, Courier, monospace;
 	font-weight: normal;
-	margin-left: 144px;
+	margin-left: 120px;
 	margin-top: 12px;
 	position: relative;
 }
 
-#u616-4:hover,#u602-4:hover
+#u613-4:hover,#u602-4:hover
 {
 	background-color: #000000;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 45px;
 	width: 253px;
-	margin: 12px 0px 0px 144px;
+	margin: 12px 0px 0px 120px;
 }
 
 #u594-4:hover p,#u595-4:hover p,#u596-4:hover p,#u597-4:hover p,#u618-4:hover p,#u616-4:hover p,#u613-4:hover p,#u602-4:hover p
@@ -612,8 +612,8 @@
 	border-radius: 100px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 557px;
-	left: 754px;
+	margin-top: 558px;
+	left: 730px;
 	background: transparent url("../images/twitter.png") no-repeat center center;
 }
 
@@ -622,7 +622,7 @@
 	width: 35px;
 	height: 35px;
 	min-height: 0px;
-	margin: 557px -10000px 0px 0px;
+	margin: 558px -10000px 0px 0px;
 	background: #FF0000 url("../images/twitter.png") no-repeat center center;
 }
 
@@ -638,7 +638,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 615px;
-	left: 754px;
+	left: 730px;
 	background: transparent url("../images/untitled-2.png") no-repeat center center;
 }
 
@@ -663,7 +663,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 501px;
-	left: 754px;
+	left: 730px;
 	background: transparent url("../images/skype.png") no-repeat center center;
 }
 
@@ -687,7 +687,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 441px;
-	left: 763px;
+	left: 739px;
 }
 
 #u326
