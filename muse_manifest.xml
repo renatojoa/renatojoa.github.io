@@ -1,0 +1,25 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="araujo.pw" resolutions="1x" timestamp="1467826599641">
+  <folder name="images">
+    <file name="twitter.png" crc="4102706121" ref="index"/>
+    <file name="skype.png" crc="4267061425" ref="index"/>
+    <file name="img_0002.jpg" crc="23543121" ref="index"/>
+    <file name="127459-200.png" crc="89115325" seo="true" ref="index"/>
+    <file name="email-icon-23 (1).png" crc="17108212" seo="true" ref="index"/>
+    <file name="untitled-2.png" crc="4048268374" ref="index"/>
+    <file name="bg2.jpg" crc="3950595014" ref="index"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="258815435"/>
+    <file name="index.css" crc="171870724" ref="index"/>
+    <file name="iefonts_index.css" crc="423515640" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+  </folder>
+  <file name="index.html" crc="421550211" seo="true" mt="1467823419591" redirect="true"/>
+</manifest>
