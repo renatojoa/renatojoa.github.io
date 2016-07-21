@@ -1,6 +1,6 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="araujo.pw" resolutions="1x" timestamp="1469111120298">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="araujo.pw" resolutions="1x" timestamp="1469112071727">
   <folder name="assets">
-    <file name="renatocv.pdf" crc="4256875572" seo="true" mt="1469109707000"/>
+    <file name="renatocv.pdf" crc="97756114" seo="true" mt="1469112048000"/>
   </folder>
   <folder name="images">
     <file name="twitter.png" crc="4102706121" ref="index"/>
