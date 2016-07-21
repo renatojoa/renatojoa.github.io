@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="araujo.pw" resolutions="1x" timestamp="1469109841794">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="araujo.pw" resolutions="1x" timestamp="1469111120298">
   <folder name="assets">
     <file name="renatocv.pdf" crc="4256875572" seo="true" mt="1469109707000"/>
   </folder>
@@ -13,7 +13,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="258815435"/>
-    <file name="index.css" crc="207174751" ref="index"/>
+    <file name="index.css" crc="377299156" ref="index"/>
     <file name="iefonts_index.css" crc="423515640" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -24,5 +24,5 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
   </folder>
-  <file name="index.html" crc="4155231184" seo="true" mt="1469109818964" redirect="true"/>
+  <file name="index.html" crc="4155231184" seo="true" mt="1469110974576" redirect="true"/>
 </manifest>
