@@ -1,28 +1,42 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="araujo.pw" resolutions="1x" timestamp="1469112071727">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="araujo.pw" resolutions="1x" timestamp="1497646246424">
   <folder name="assets">
-    <file name="renatocv.pdf" crc="97756114" seo="true" mt="1469112048000"/>
+    <file name="resume---renato-araújo.pdf" crc="210764300" seo="true" mt="1497543177000"/>
+    <file name="renato-araújo---pt.pdf" crc="438051224" seo="true" mt="1497557909000"/>
+    <file name="renato-araújo---en.pdf" crc="41768962" seo="true" mt="1497558066000"/>
   </folder>
   <folder name="images">
-    <file name="twitter.png" crc="4102706121" ref="index"/>
-    <file name="skype.png" crc="4267061425" ref="index"/>
-    <file name="127459-200.png" crc="89115325" seo="true" ref="index"/>
-    <file name="email-icon-23 (1).png" crc="17108212" seo="true" ref="index"/>
-    <file name="untitled-2.png" crc="4048268374" ref="index"/>
-    <file name="bg2.jpg" crc="3950595014" ref="index"/>
-    <file name="disney.jpg" crc="3787259260" ref="index"/>
+    <file name="download.jpg" crc="4120442805" seo="true" ref="index:home-pt"/>
+    <file name="download (1).jpg" crc="4113828089" seo="true" ref="index:home-pt"/>
+    <file name="mac.jpg" crc="3912780401" ref="index:home-pt"/>
+    <file name="profiel.png" crc="3999780340" seo="true" ref="index:home-pt"/>
+    <file name="mail.png" crc="4264181550" seo="true" ref="home-pt"/>
+    <file name="twitter-512.gif" crc="404384023" seo="true" ref="home-pt"/>
+    <file name="facebook-2048-black.png" crc="218485169" seo="true" ref="home-pt"/>
+    <file name="black-linkedin-icon.png" crc="281183053" seo="true" ref="home-pt"/>
+    <file name="github.png" crc="4232846841" seo="true" ref="home-pt"/>
+    <file name="heart.png" crc="117585526" seo="true" ref="index:home-pt"/>
+    <file name="3.png" crc="409029912" seo="true" ref="index"/>
+    <file name="32.png" crc="4262155158" seo="true" ref="index"/>
+    <file name="iphone.png" crc="38707082" seo="true" ref="index"/>
+    <file name="facebook iphone.png" crc="3827498577" seo="true" ref="index"/>
+    <file name="github iphone.png" crc="440065744" seo="true" ref="index"/>
+    <file name="linkedin iphone.png" crc="4286414152" seo="true" ref="index"/>
+    <file name="mail iphone.png" crc="187535849" seo="true" ref="index"/>
+    <file name="twitter iphone.png" crc="3776531482" seo="true" ref="index"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="258815435"/>
-    <file name="index.css" crc="377299156" ref="index"/>
-    <file name="iefonts_index.css" crc="423515640" ref="index"/>
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="202861819" ref="index"/>
+    <file name="home-pt.css" crc="4135077273" ref="home-pt"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
-    <file name="museutils.js" crc="183364071" ref="index"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:home-pt"/>
+    <file name="museutils.js" crc="183364071" ref="index:home-pt"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:home-pt"/>
+    <file name="pie.js" crc="3827607177" ref="index:home-pt"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:home-pt"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:home-pt"/>
   </folder>
-  <file name="index.html" crc="4155231184" seo="true" mt="1469110974576" redirect="true"/>
+  <file name="index.html" crc="119416326" seo="true" mt="1497646183960" redirect="true"/>
+  <file name="home-pt.html" crc="104463206" seo="true" mt="1497558198557" redirect="true"/>
 </manifest>
