@@ -117,6 +117,44 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
+.French a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
+.French a:link
+{
+	color: #00BDE7;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.French a:visited
+{
+	color: #00BDE7;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.French a:hover
+{
+	color: #00BDE7;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.French a:active
+{
+	color: #00BDE7;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: underline;
+}
+
 .normal_text
 {
 	color: #000000;
@@ -133,6 +171,56 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-transform: none;
 	vertical-align: 0px;
 	padding: 0px;
+}
+
+.ts03-Body-Sans-Wide
+{
+	color: #41414B;
+	font-family: droid-sans, sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+	text-indent: 20px;
+	padding: 0px 0px 12px;
+}
+
+.Ribbon-Large
+{
+	color: #FFFFFF;
+	font-family: ubuntu-condensed, sans-serif;
+	font-size: 34px;
+	font-weight: 400;
+	letter-spacing: 1px;
+	padding: 0px;
+}
+
+.Body-Medium
+{
+	color: #6E6161;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-size: 19px;
+	line-height: 29px;
+	padding: 0px;
+}
+
+.Subhead-Yellow
+{
+	color: #E7A800;
+	font-family: ubuntu-condensed, sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+	letter-spacing: 1px;
+	line-height: 25px;
+	text-align: left;
+	padding: 0px;
+}
+
+.Menu-Buttons
+{
+	color: #383838;
+	font-family: dosis, sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	letter-spacing: 3px;
 }
 
 .list0 li:before
