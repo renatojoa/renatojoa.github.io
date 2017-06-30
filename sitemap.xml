@@ -37,36 +37,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://araujo.pw/images/mail.png</loc>
-    <lastmod>2017-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://araujo.pw/images/twitter-512.gif</loc>
-    <lastmod>2017-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://araujo.pw/images/facebook-2048-black.png</loc>
-    <lastmod>2017-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://araujo.pw/images/black-linkedin-icon.png</loc>
-    <lastmod>2017-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://araujo.pw/images/github.png</loc>
-    <lastmod>2017-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://araujo.pw/images/heart.png</loc>
     <lastmod>2017-06-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -134,7 +104,7 @@
   </url>
   <url>
     <loc>http://araujo.pw/home-pt.html</loc>
-    <lastmod>2017-06-15</lastmod>
+    <lastmod>2017-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
