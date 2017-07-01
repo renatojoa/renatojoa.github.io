@@ -1,27 +1,26 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="araujo.pw" resolutions="1x" timestamp="1498936646090">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="araujo.pw" resolutions="1x" timestamp="1498937630926">
   <folder name="assets">
-    <file name="resume---renato-araújo.pdf" crc="210764300" seo="true" mt="1497543177000"/>
     <file name="renato-araújo---pt.pdf" crc="438051224" seo="true" mt="1497557909000"/>
     <file name="renato-araújo---en.pdf" crc="41768962" seo="true" mt="1497558066000"/>
   </folder>
   <folder name="images">
     <file name="3.png" crc="12087293" seo="true" ref="index:home-pt"/>
-    <file name="download.jpg" crc="4120442805" seo="true" ref="index:home-pt"/>
-    <file name="download (1).jpg" crc="4113828089" seo="true" ref="index:home-pt"/>
     <file name="mac.jpg" crc="3912780401" ref="index:home-pt"/>
     <file name="profiel.png" crc="3999780340" seo="true" ref="index:home-pt"/>
-    <file name="teste.png" crc="458575125" seo="true" ref="index:home-pt"/>
-    <file name="test2.png" crc="3959057300" seo="true" ref="index:home-pt"/>
     <file name="iphone.png" crc="38707082" seo="true" ref="index:home-pt"/>
-    <file name="facebook iphone.png" crc="3827498577" seo="true" ref="index:home-pt"/>
-    <file name="github iphone.png" crc="440065744" seo="true" ref="index:home-pt"/>
-    <file name="linkedin iphone.png" crc="4286414152" seo="true" ref="index:home-pt"/>
-    <file name="mail iphone.png" crc="187535849" seo="true" ref="index:home-pt"/>
-    <file name="twitter iphone.png" crc="3776531482" seo="true" ref="index:home-pt"/>
+    <file name="br_flag.jpg" crc="4120442805" seo="true" ref="index:home-pt"/>
+    <file name="us_flag.jpg" crc="4113828089" seo="true" ref="index:home-pt"/>
+    <file name="c3 app.png" crc="3959057300" seo="true" ref="index:home-pt"/>
+    <file name="facebook app.png" crc="3827498577" seo="true" ref="index:home-pt"/>
+    <file name="github app.png" crc="440065744" seo="true" ref="index:home-pt"/>
+    <file name="linkedin app.png" crc="4286414152" seo="true" ref="index:home-pt"/>
+    <file name="mail app.png" crc="187535849" seo="true" ref="index:home-pt"/>
+    <file name="shop app.png" crc="458575125" seo="true" ref="index:home-pt"/>
+    <file name="twitter app.png" crc="3776531482" seo="true" ref="index:home-pt"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3825514934"/>
-    <file name="index.css" crc="156254898" ref="index"/>
+    <file name="index.css" crc="298124319" ref="index"/>
     <file name="home-pt.css" crc="3780649157" ref="home-pt"/>
   </folder>
   <folder name="scripts">
@@ -36,6 +35,6 @@
     <file name="jquery.museoverlay.js" crc="493285861" ref="index:home-pt"/>
     <file name="touchswipe.js" crc="4038331989" ref="index:home-pt"/>
   </folder>
-  <file name="index.html" crc="4094053644" seo="true" mt="1498936636518" redirect="true"/>
-  <file name="home-pt.html" crc="212240734" seo="true" mt="1498927840135" redirect="true"/>
+  <file name="index.html" crc="4206010504" seo="true" mt="1498937619543" redirect="true"/>
+  <file name="home-pt.html" crc="528746372" seo="true" mt="1498937576424" redirect="true"/>
 </manifest>

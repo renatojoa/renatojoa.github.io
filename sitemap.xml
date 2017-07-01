@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://araujo.pw/assets/resume---renato-ara%C3%BAjo.pdf</loc>
-    <lastmod>2017-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://araujo.pw/assets/renato-ara%C3%BAjo---pt.pdf</loc>
     <lastmod>2017-06-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -25,31 +19,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://araujo.pw/images/download.jpg</loc>
-    <lastmod>2017-07-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://araujo.pw/images/download%20(1).jpg</loc>
-    <lastmod>2017-07-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://araujo.pw/images/profiel.png</loc>
-    <lastmod>2017-07-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://araujo.pw/images/teste.png</loc>
-    <lastmod>2017-07-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://araujo.pw/images/test2.png</loc>
     <lastmod>2017-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -61,31 +31,55 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://araujo.pw/images/facebook%20iphone.png</loc>
+    <loc>http://araujo.pw/images/br_flag.jpg</loc>
     <lastmod>2017-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://araujo.pw/images/github%20iphone.png</loc>
+    <loc>http://araujo.pw/images/us_flag.jpg</loc>
     <lastmod>2017-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://araujo.pw/images/linkedin%20iphone.png</loc>
+    <loc>http://araujo.pw/images/c3%20app.png</loc>
     <lastmod>2017-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://araujo.pw/images/mail%20iphone.png</loc>
+    <loc>http://araujo.pw/images/facebook%20app.png</loc>
     <lastmod>2017-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://araujo.pw/images/twitter%20iphone.png</loc>
+    <loc>http://araujo.pw/images/github%20app.png</loc>
+    <lastmod>2017-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://araujo.pw/images/linkedin%20app.png</loc>
+    <lastmod>2017-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://araujo.pw/images/mail%20app.png</loc>
+    <lastmod>2017-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://araujo.pw/images/shop%20app.png</loc>
+    <lastmod>2017-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://araujo.pw/images/twitter%20app.png</loc>
     <lastmod>2017-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
