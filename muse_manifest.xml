@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="araujo.pw" resolutions="1x" timestamp="1498845433192">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="araujo.pw" resolutions="1x" timestamp="1498875387105">
   <folder name="assets">
     <file name="resume---renato-araújo.pdf" crc="210764300" seo="true" mt="1497543177000"/>
     <file name="renato-araújo---pt.pdf" crc="438051224" seo="true" mt="1497557909000"/>
@@ -10,20 +10,19 @@
     <file name="download (1).jpg" crc="4113828089" seo="true" ref="index:home-pt"/>
     <file name="mac.jpg" crc="3912780401" ref="index:home-pt"/>
     <file name="profiel.png" crc="3999780340" seo="true" ref="index:home-pt"/>
-    <file name="teste.png" crc="458575125" seo="true" ref="home-pt"/>
-    <file name="test2.png" crc="3959057300" seo="true" ref="home-pt"/>
+    <file name="teste.png" crc="458575125" seo="true" ref="home-pt:index"/>
+    <file name="test2.png" crc="3959057300" seo="true" ref="home-pt:index"/>
     <file name="iphone.png" crc="38707082" seo="true" ref="index:home-pt"/>
     <file name="facebook iphone.png" crc="3827498577" seo="true" ref="index:home-pt"/>
     <file name="github iphone.png" crc="440065744" seo="true" ref="index:home-pt"/>
     <file name="linkedin iphone.png" crc="4286414152" seo="true" ref="index:home-pt"/>
     <file name="mail iphone.png" crc="187535849" seo="true" ref="index:home-pt"/>
     <file name="twitter iphone.png" crc="3776531482" seo="true" ref="index:home-pt"/>
-    <file name="heart.png" crc="117585526" seo="true" ref="home-pt"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3825514934"/>
-    <file name="index.css" crc="3895140131" ref="index"/>
-    <file name="home-pt.css" crc="3814087246" ref="home-pt"/>
+    <file name="index.css" crc="4205402889" ref="index"/>
+    <file name="home-pt.css" crc="4165031877" ref="home-pt"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:home-pt"/>
@@ -32,7 +31,11 @@
     <file name="pie.js" crc="3827607177" ref="index:home-pt"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:home-pt"/>
     <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:home-pt"/>
+    <file name="webpro.js" crc="3803554875" ref="index:home-pt"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:home-pt"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:home-pt"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:home-pt"/>
   </folder>
-  <file name="index.html" crc="412973421" seo="true" mt="1498845326162" redirect="true"/>
-  <file name="home-pt.html" crc="76044006" seo="true" mt="1498805345738" redirect="true"/>
+  <file name="index.html" crc="119361219" seo="true" mt="1498875234769" redirect="true"/>
+  <file name="home-pt.html" crc="4284115034" seo="true" mt="1498847667093" redirect="true"/>
 </manifest>

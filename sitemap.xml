@@ -91,12 +91,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://araujo.pw/images/heart.png</loc>
-    <lastmod>2017-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://araujo.pw/index.html</loc>
     <lastmod>2017-06-30</lastmod>
     <changefreq>weekly</changefreq>
