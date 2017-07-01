@@ -1,7 +1,7 @@
 .version.home_pt /* version checker */
 {
-	color: #00000D;
-	background-color: #BCD982;
+	color: #0000E1;
+	background-color: #5820C5;
 }
 
 .html
@@ -802,12 +802,11 @@
 	min-height: 24px;
 	background-color: transparent;
 	color: #000000;
+	text-transform: uppercase;
 	line-height: 24px;
 	text-align: center;
-	text-transform: uppercase;
 	font-size: 14px;
-	font-family: maven-pro, sans-serif;
-	font-weight: 500;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 }
 

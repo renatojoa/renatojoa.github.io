@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="araujo.pw" resolutions="1x" timestamp="1498927590201">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="araujo.pw" resolutions="1x" timestamp="1498927992183">
   <folder name="assets">
     <file name="resume---renato-araújo.pdf" crc="210764300" seo="true" mt="1497543177000"/>
     <file name="renato-araújo---pt.pdf" crc="438051224" seo="true" mt="1497557909000"/>
@@ -21,8 +21,8 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3825514934"/>
-    <file name="index.css" crc="4205402889" ref="index"/>
-    <file name="home-pt.css" crc="230480258" ref="home-pt"/>
+    <file name="index.css" crc="4267654357" ref="index"/>
+    <file name="home-pt.css" crc="3780649157" ref="home-pt"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:home-pt"/>
@@ -36,6 +36,6 @@
     <file name="jquery.museoverlay.js" crc="493285861" ref="index:home-pt"/>
     <file name="touchswipe.js" crc="4038331989" ref="index:home-pt"/>
   </folder>
-  <file name="index.html" crc="4224119438" seo="true" mt="1498927583969" redirect="true"/>
-  <file name="home-pt.html" crc="4081479856" seo="true" mt="1498927547643" redirect="true"/>
+  <file name="index.html" crc="3929386247" seo="true" mt="1498927792485" redirect="true"/>
+  <file name="home-pt.html" crc="212240734" seo="true" mt="1498927840135" redirect="true"/>
 </manifest>
