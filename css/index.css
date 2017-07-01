@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FE;
-	background-color: #5F3CD5;
+	color: #000009;
+	background-color: #5042B2;
 }
 
 .html
@@ -12,13 +12,12 @@
 #page
 {
 	z-index: 1;
-	width: 1020px;
-	min-height: 1080.7903032394515px;
+	width: 980px;
+	min-height: 499.79030323945153px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	border-radius: 10px;
 	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
@@ -146,7 +145,7 @@
 {
 	margin-left: auto;
 	margin-right: auto;
-	width: 1020px;
+	width: 980px;
 	position: relative;
 	left: -100px;
 	padding-top: 19px;
@@ -483,7 +482,7 @@
 {
 	margin-left: auto;
 	margin-right: auto;
-	width: 1019px;
+	width: 979px;
 	position: relative;
 	left: -100px;
 	padding-top: 12px;
@@ -944,7 +943,7 @@
 body
 {
 	position: relative;
-	min-width: 1020px;
+	min-width: 980px;
 }
 
 #page .verticalspacer
