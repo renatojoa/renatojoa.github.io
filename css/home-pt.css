@@ -1,7 +1,7 @@
 .version.home_pt /* version checker */
 {
-	color: #0000E1;
-	background-color: #5820C5;
+	color: #000000;
+	background-color: #692F08;
 }
 
 .html
@@ -53,9 +53,9 @@
 	min-height: 34px;
 	background-color: transparent;
 	color: #000000;
-	line-height: 26px;
 	text-align: left;
 	letter-spacing: 15px;
+	line-height: 26px;
 	text-transform: uppercase;
 	font-size: 22px;
 	font-family: maven-pro, sans-serif;
@@ -160,8 +160,8 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 71px;
 	text-align: right;
+	line-height: 71px;
 	text-transform: uppercase;
 	font-size: 42px;
 	font-family: maven-pro, sans-serif;
@@ -280,8 +280,8 @@
 	min-height: 31px;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	color: #F15A24;
 	line-height: 35px;
+	color: #F15A24;
 	font-size: 23px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
@@ -414,8 +414,8 @@
 	min-height: 31px;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	color: #F15A24;
 	line-height: 35px;
+	color: #F15A24;
 	font-size: 23px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
@@ -456,8 +456,8 @@
 	width: 359px;
 	min-height: 66px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
+	color: #FFFFFF;
 	text-align: right;
 	font-size: 16px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -508,8 +508,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 50px;
 	text-align: center;
+	line-height: 50px;
 	text-transform: uppercase;
 	font-size: 42px;
 	font-family: maven-pro, sans-serif;
@@ -526,8 +526,8 @@
 	min-height: 42px;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 29px;
 	text-align: center;
+	line-height: 29px;
 	font-size: 17px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 500;
@@ -550,8 +550,8 @@
 	border-radius: 30px 0px 30px 0px ;
 	padding-top: 5px;
 	color: #FFFFFF;
-	line-height: 29px;
 	text-align: center;
+	line-height: 29px;
 	text-transform: uppercase;
 	font-size: 17px;
 	font-family: maven-pro, sans-serif;
@@ -584,8 +584,8 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 71px;
 	text-align: right;
+	line-height: 71px;
 	text-transform: uppercase;
 	font-size: 42px;
 	font-family: maven-pro, sans-serif;
@@ -801,9 +801,9 @@
 	width: 678px;
 	min-height: 24px;
 	background-color: transparent;
-	color: #000000;
-	text-transform: uppercase;
 	line-height: 24px;
+	text-transform: uppercase;
+	color: #000000;
 	text-align: center;
 	font-size: 14px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;

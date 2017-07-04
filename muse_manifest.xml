@@ -1,7 +1,9 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="araujo.pw" resolutions="1x" timestamp="1498937630926">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="araujo.pw" resolutions="1x" timestamp="1499194320174">
   <folder name="assets">
     <file name="renato-araújo---pt.pdf" crc="438051224" seo="true" mt="1497557909000"/>
     <file name="renato-araújo---en.pdf" crc="41768962" seo="true" mt="1497558066000"/>
+    <file name="renato-araújo---pt2.pdf" crc="3889109773" seo="true" mt="1499194174000"/>
+    <file name="renato-araújo---en2.pdf" crc="4025236274" seo="true" mt="1499194140000"/>
   </folder>
   <folder name="images">
     <file name="3.png" crc="12087293" seo="true" ref="index:home-pt"/>
@@ -20,8 +22,8 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3825514934"/>
-    <file name="index.css" crc="298124319" ref="index"/>
-    <file name="home-pt.css" crc="3780649157" ref="home-pt"/>
+    <file name="index.css" crc="244531015" ref="index"/>
+    <file name="home-pt.css" crc="6893320" ref="home-pt"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:home-pt"/>
@@ -35,6 +37,6 @@
     <file name="jquery.museoverlay.js" crc="493285861" ref="index:home-pt"/>
     <file name="touchswipe.js" crc="4038331989" ref="index:home-pt"/>
   </folder>
-  <file name="index.html" crc="4206010504" seo="true" mt="1498937619543" redirect="true"/>
-  <file name="home-pt.html" crc="528746372" seo="true" mt="1498937576424" redirect="true"/>
+  <file name="index.html" crc="4081724188" seo="true" mt="1499194305763" redirect="true"/>
+  <file name="home-pt.html" crc="55746563" seo="true" mt="1499194292252" redirect="true"/>
 </manifest>
