@@ -1,40 +1,40 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="araujo.pw" resolutions="1x" timestamp="1501331762167">
-  <folder name="assets">
-    <file name="renato-araújo---en-(2).pdf" crc="3789523429" seo="true" mt="1501331599000"/>
-    <file name="renato-araújo---pt-(5).pdf" crc="248962838" seo="true" mt="1501331552000"/>
-  </folder>
-  <folder name="images">
-    <file name="3.png" crc="12087293" seo="true" ref="index:home-pt"/>
-    <file name="mac.jpg" crc="3912780401" ref="index:home-pt"/>
-    <file name="profiel.png" crc="3999780340" seo="true" ref="index:home-pt"/>
-    <file name="iphone.png" crc="38707082" seo="true" ref="index:home-pt"/>
-    <file name="br_flag.jpg" crc="4120442805" seo="true" ref="index:home-pt"/>
-    <file name="us_flag.jpg" crc="4113828089" seo="true" ref="index:home-pt"/>
-    <file name="c3 app.png" crc="3959057300" seo="true" ref="index:home-pt"/>
-    <file name="facebook app.png" crc="3827498577" seo="true" ref="index:home-pt"/>
-    <file name="github app.png" crc="440065744" seo="true" ref="index:home-pt"/>
-    <file name="linkedin app.png" crc="4286414152" seo="true" ref="index:home-pt"/>
-    <file name="mail app.png" crc="187535849" seo="true" ref="index:home-pt"/>
-    <file name="shop app.png" crc="458575125" seo="true" ref="index:home-pt"/>
-    <file name="twitter app.png" crc="3776531482" seo="true" ref="index:home-pt"/>
-  </folder>
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="araujo.pw" resolutions="1x" timestamp="1517062533119">
   <folder name="css">
     <file name="site_global.css" crc="3825514934"/>
     <file name="index.css" crc="298124319" ref="index"/>
-    <file name="home-pt.css" crc="3780649157" ref="home-pt"/>
+    <file name="home-pt.css" crc="187603456" ref="home-pt"/>
+  </folder>
+  <folder name="assets">
+    <file name="renato-araújo---en.pdf" crc="3916576376" seo="true" mt="1517062367000"/>
+    <file name="renato-araújo---pt-(1).pdf" crc="4123465609" seo="true" mt="1517062440000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:home-pt"/>
     <file name="museutils.js" crc="183364071" ref="index:home-pt"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:home-pt"/>
     <file name="jquery.watch.js" crc="71412426" ref="index:home-pt"/>
     <file name="pie.js" crc="3827607177" ref="index:home-pt"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:home-pt"/>
-    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:home-pt"/>
     <file name="webpro.js" crc="3803554875" ref="index:home-pt"/>
     <file name="musewpslideshow.js" crc="242596657" ref="index:home-pt"/>
     <file name="jquery.museoverlay.js" crc="493285861" ref="index:home-pt"/>
     <file name="touchswipe.js" crc="4038331989" ref="index:home-pt"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:home-pt"/>
   </folder>
-  <file name="index.html" crc="86965685" seo="true" mt="1501331727853" redirect="true"/>
-  <file name="home-pt.html" crc="106425779" seo="true" mt="1501331754886" redirect="true"/>
+  <folder name="images">
+    <file name="3.png" crc="12087293" seo="true" ref="index:home-pt"/>
+    <file name="br_flag.jpg" crc="4120442805" seo="true" ref="index:home-pt"/>
+    <file name="us_flag.jpg" crc="4113828089" seo="true" ref="index:home-pt"/>
+    <file name="shop app.png" crc="458575125" seo="true" ref="index:home-pt"/>
+    <file name="c3 app.png" crc="3959057300" seo="true" ref="index:home-pt"/>
+    <file name="mac.jpg" crc="3912780401" ref="index:home-pt"/>
+    <file name="profiel.png" crc="3999780340" seo="true" ref="index:home-pt"/>
+    <file name="iphone.png" crc="38707082" seo="true" ref="index:home-pt"/>
+    <file name="facebook app.png" crc="3827498577" seo="true" ref="index:home-pt"/>
+    <file name="github app.png" crc="440065744" seo="true" ref="index:home-pt"/>
+    <file name="linkedin app.png" crc="4286414152" seo="true" ref="index:home-pt"/>
+    <file name="mail app.png" crc="187535849" seo="true" ref="index:home-pt"/>
+    <file name="twitter app.png" crc="3776531482" seo="true" ref="index:home-pt"/>
+  </folder>
+  <file name="index.html" crc="193631376" seo="true" mt="1517062463152" redirect="true"/>
+  <file name="home-pt.html" crc="403757068" seo="true" mt="1517062483574" redirect="true"/>
 </manifest>
